@@ -1,0 +1,296 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+CATwalk_example_04        ------------------------------------------------------------	0
+CATwalk_example_03        CCTTGAAGCCGTCGGCGAAGGTCATCCGGTACTCGTTGGCGTCGCGCTTGACGCGTACCT	60
+CATwalk_example_02        ------------------------------------------------------------	0
+CATwalk_example_seed      ------------------------------------------------------------	0
+CATwalk_example_01        ------------------------------------------------------------	0
+                                                                                      
+
+CATwalk_example_04        ------------------------------------------------------------	0
+CATwalk_example_03        CGACCCGGGTCGAGAGCGCGTTCACCACCGAGATGCCGACCCCGTGCAAGCCGCCGGAGA	120
+CATwalk_example_02        ------------------------------------------------------------	0
+CATwalk_example_seed      ------------------------------------------------------------	0
+CATwalk_example_01        ------------------------------------------------------------	0
+                                                                                      
+
+CATwalk_example_04        ------------------------------------------------------------	0
+CATwalk_example_03        ACTGGTAGTTCTTGTTCGAGAACTTGCCGCCGGCATGCAGCTTGGTAAGGATCAGCTCGA	180
+CATwalk_example_02        ------------------------------------------------------------	0
+CATwalk_example_seed      ------------------------------------------------------------	0
+CATwalk_example_01        ------------------------------------------------------------	0
+                                                                                      
+
+CATwalk_example_04        ------------------------------------------------------------	0
+CATwalk_example_03        CGCCCGGCACGCCCTCTTCCGGGTGGATGTCCACCGGCATGCCGCGGCCGTCGTCGATGA	240
+CATwalk_example_02        ------------------------------------------------------------	0
+CATwalk_example_seed      ------------------------------------------------------------	0
+CATwalk_example_01        ------------------------------------------------------------	0
+                                                                                      
+
+CATwalk_example_04        ------------------------------------------------------------	0
+CATwalk_example_03        CTTCCAGCGAGTTGTCCTGGTGCAGGATCACCTGCACGCTCTTCGCGTGGCCGGCCAGGG	300
+CATwalk_example_02        ------------------------------------------------------------	0
+CATwalk_example_seed      ------------------------------------------------------------	0
+CATwalk_example_01        ------------------------------------------------------------	0
+                                                                                      
+
+CATwalk_example_04        ------------------------------------------------------------	0
+CATwalk_example_03        CTTCGTCGACGCTGTTGTCGATGACTTCCTGGGCCAGGTGGTTGGGGCGGGTGGTGTCGG	360
+CATwalk_example_02        ------------------------------------------------------------	0
+CATwalk_example_seed      ------------------------------------------------------------	0
+CATwalk_example_01        ------------------------------------------------------------	0
+                                                                                      
+
+CATwalk_example_04        ------------------------------------------------------------	0
+CATwalk_example_03        TGTACATCCCCGGGCGCTTGCGCACCGGGTCGAGGCCGGAAAGGACTTCGATGGCGTCTG	420
+CATwalk_example_02        ----------------CTTGCGCACCGGGTCGAGGCCGGAAAGGACTTCGATGGCGTCTG	44
+CATwalk_example_seed      ------------------------------------------------------------	0
+CATwalk_example_01        -----------------------------------------------------------G	1
+                                                                                      
+
+CATwalk_example_04        ------------------------------------------------------------	0
+CATwalk_example_03        CGTTGTAAGTAGCCATGGGGTCTCTATTCAGTCAAAAGTCGAAAAATCGGTGTCGCGCCA	480
+CATwalk_example_02        CGTTGTAAGTAGCCATGGGGTCTCTATTCAGTCAAAAGTCGAAAAATCGGTGTCGCGCCA	104
+CATwalk_example_seed      ------------------------------------------------------------	0
+CATwalk_example_01        CGTTGTAAGTAGCCATGGGGTCTCTATTCAGTCAAAAGTCGAAAAATCGGTGTCGCGCCA	61
+                                                                                      
+
+CATwalk_example_04        ------------------------------------------------------GCCCTG	6
+CATwalk_example_03        CAGCGCCGACGGGTAGCCGGCGAACGCCAGCAGCGCCGGCAGGTGCCGGGCGAAGCCCTG	540
+CATwalk_example_02        CAGCGCCGACGGGTAGCCGGCGAACGCCAGCAGCGCCGGCAGGTGCCGGGCGAAGCCCTG	164
+CATwalk_example_seed      ------------------------------------------------------------	0
+CATwalk_example_01        CAGCGCCGACGGGTAGCCGGCGAACGCCAGCAGCGCCGGCAGGTGCCGGGCGAAGCCCTG	121
+                                                                                      
+
+CATwalk_example_04        GGAGCCGTGGTCGCCGCCGGCCTGGATGCGCAGCGCGCAGGCTCGGTAGAAGGCCTGCGC	66
+CATwalk_example_03        GAAGCCGTGGTCGCCGCCGGCCTGGATGCGCAGCGCGCAGGCTCGGTAGAAGGCCTGCGC	600
+CATwalk_example_02        GAAGCCGTGGTCGCCGCCGGCCTGGATGCGCAGCGCGCAGGCTCGGTAGAAGGCCTGCGC	224
+CATwalk_example_seed      ------------------------------------------------------------	0
+CATwalk_example_01        GAAGCCGTGGTCGCCGCCGGCCTGGATGCGCAGCGCGCAGGCTCGGTAGAAGGCCTGCGC	181
+                                                                                      
+
+CATwalk_example_04        GGCGCGATAGTCGAGGGTTTCGTCGGCGGTCTGCAGCCATACCTGGTAGCGTTCGGGACG	126
+CATwalk_example_03        GGCGCGATAGTCGAGGGTTTCGTCGGCGGTCTGCAGCCATACCTGGTAGCGTTCGGGACG	660
+CATwalk_example_02        GGCGCGATAGTCGAGGGTTTCGTCGGCGGTCTACAGCCATACCTGGTAGCGTTCGGGACG	284
+CATwalk_example_seed      ------------------------------------------------------------	0
+CATwalk_example_01        GGCGCGATAGTCGAGGGTTTCGTCGGCGGTCTGCAGCCATACCTGGTAGCGTTCGGGACG	241
+                                                                                      
+
+CATwalk_example_04        TTGCAGGCGCGTGACTTCCAGTTCGGCCAGCGCCGCCACGTGGTCCTCGGTGAGTTCCCA	186
+CATwalk_example_03        TTGCAGGCGCGTGACTTCCAGTTCGGCCAGCGCCGCCACGTGGTCCTCGGTGAGTTCCCA	720
+CATwalk_example_02        TTGCAGGCGCGTGACTTCCAGTTCGGCCAGCGCCGCCACGTGGTCCTCGGTGAGTTCCCA	344
+CATwalk_example_seed      ------------------------------------------------------------	0
+CATwalk_example_01        TTGCAGGCGCGTGACTTCCAGTTCGGCCAGCGCCGCCACGTGGTCCTCGGTGAGTTCCCA	301
+                                                                                      
+
+CATwalk_example_04        GGTCTCGCCACTGTAGTGGTTGGTCTGCGCGCCCAGGTAGCCGTCGAAGGAGCGATGCGG	246
+CATwalk_example_03        GGTCTCGCCACTGTAGTGGTTGGTCTGCGCGCCCAGGTAGCCGTCGAAGGAGCGATGCGG	780
+CATwalk_example_02        GGTCTCGCCACTGTAGTGGTTGGTCTGCGCGCCCAGGTAGCCGTCGAAGGAGCGATGCGG	404
+CATwalk_example_seed      ------------------------------------------------------------	0
+CATwalk_example_01        GGTCTCGCCACTGTAGTGGTTGGTCTGCGCGCCCAGGTAGCCGTCGAAGGAGCGATGCGG	361
+                                                                                      
+
+CATwalk_example_04        GGCGACCGCCGGATTGACCAGGATCGCCGCCAGGCCATGGCGCTCCGCCAAATGGGTCGC	306
+CATwalk_example_03        GGCGACCGCCGGATTGACCAGGATCGCCGCCAGGCCATGGCGCTCCGCCAAATGGGTCGC	840
+CATwalk_example_02        GGCGACCGCCGGATTGACCAGGATCGCCGCCAGGCCATGGCGCTCCGCCAAATGGGTCGC	464
+CATwalk_example_seed      ------------------------------------------------------------	0
+CATwalk_example_01        GGCGACCGCCGGATTGACCAGGATCGCCGCCAGGCCATGGCGCTCCGCCAAATGGGTCGC	421
+                                                                                      
+
+CATwalk_example_04        ATAGTAGCCACCCAGGGAGCTGCCGACCAGCACCGGTCGCCCAAGCTCGGCGATGGCCCG	366
+CATwalk_example_03        ATAGTAGCCACCCAGGGAGCTGCCGACCAGCACCGGTCGCCCAAGCTCGGCGATGGCCCG	900
+CATwalk_example_02        ATAGTAGCCACCCAGGGAGCTGCCGACCAGCACCGGTCGCCCAAGCTCGGCGATGGCCCG	524
+CATwalk_example_seed      ------------------------------------------------------------	0
+CATwalk_example_01        ATAGTAGCCACCCAGGGAGCTGCCGACCAGCACCGGTCGCCCAAGCTCGGCGATGGCCCG	481
+                                                                                      
+
+CATwalk_example_04        CTCCAACTGGGCGATGGCCTGCCGTGGGTGATGGTGCAGGGCCGGGACGCGCAGGCCTTC	426
+CATwalk_example_03        CTCCAACTGGGCGATGGCCTGCCGTGGGTGATGGTGCAGGGCCGGGACGCGCAGGCCTTC	960
+CATwalk_example_02        CTCCAACTGGGCGATGGCCTGCCGTGGGTGATGGTGCAGGGCCGGGACGCGCAGGCCTTC	584
+CATwalk_example_seed      ------------------------------------------------------------	0
+CATwalk_example_01        CTCCAACTGGGCGATGGCCTGCCGTGGGTGATGGTGCAGGGCCGGGACGCGCAGGCCTTC	541
+                                                                                      
+
+CATwalk_example_04        GGCCAGGCCCAAGTGGCCGAAGGCCGCCTGCAGCTGGCGCGCCTTGTGCGATTCGGGCGA	486
+CATwalk_example_03        GGCCAGGCCCAAGTGGCCGAAGGCCGCCTGCAGCTGGCGCGCCTTGTGCGATTCGGGCGA	1020
+CATwalk_example_02        GGCCAGGCCCAAGTGGCCGAAGGCCGCCTGCAGCTGGCGCGCCTTGTGCGATTCGGGCGA	644
+CATwalk_example_seed      ------------------------------------------------------------	0
+CATwalk_example_01        GGCCAGGCCCAAGTGGCCGAAGGCCGCCTGCAGCTGGCGCGCCTTGTGCGATTCGGGCGA	601
+                                                                                      
+
+CATwalk_example_04        ACTGTTGAAGCCGTGGATATACAGCAGGGATGGGCTGGTCGCAGTCATCGGGAACGGGCT	546
+CATwalk_example_03        ACTGTTGAAGCCGTGGATATACAGCAGGGATGGGCTGGTCGCAGTCATCGGGAACGGGCT	1080
+CATwalk_example_02        ACTGTTGAAGCCGTGGATATACAGCAGGGATGGGCTGGTCGCAGTCATCGGGAACGGGCT	704
+CATwalk_example_seed      ----------------------------------------------------------CT	2
+CATwalk_example_01        ACTGTTGAAGCCGTGGATATACAGCAGGGATGGGCTGGTCGCAGTCATCGGGAACGGGCT	661
+                                                                                    **
+
+CATwalk_example_04        AATGGGCTTCAACTCGGTAGGGAAAGCCGAACGGTAACAGCTTCCAGGCTTCATCTTCCA	606
+CATwalk_example_03        AATGGGCTTCAACTCGGTAGGGAAAGCCGAACGGTAACAGCTTCCAGGCTTCATCTTCCA	1140
+CATwalk_example_02        AATGGGCTTCAACTCGGTAGGGAAAGCCGAACGGTAACAGCTTCCAGGCTTCATCTTCCA	764
+CATwalk_example_seed      AATGGGCTTCAACTCGGTAGGGAAAGCCGAACGGTAACAGCTTCCAGGCTTCATCTTCCA	62
+CATwalk_example_01        AATGGGCTTCAACTCGGTAGGGAAAGCCGAACGGTAACAGCTTCCAGGCTTCATCTTCCA	721
+                          ************************************************************
+
+CATwalk_example_04        GCCTGCGCGCCGATCGGCAACGACGCACGTGGCCGCGGTATCCCGCGACCGGGGGCATGT	666
+CATwalk_example_03        GCCTGCGCGCCGATCGGCAACGACGCACGTGGCCGCGGTATCCCGCGACCGGGGGCATGT	1200
+CATwalk_example_02        GCCTGCGCGCCGATCGGCAACGACGCACGTGGCCGCGGTATCCCGCGACCGGGGGCATGT	824
+CATwalk_example_seed      GCCTGCGCGCCGATCGGCAACGACGCACGTGGCCGCGGTATCCCGCGACCGGGGGCATGT	122
+CATwalk_example_01        GCCTGCGCGCCGATCGGCAACGACGCACGTGGCCGCGGTATCCCGCGACCGGGGGCATGT	781
+                          ************************************************************
+
+CATwalk_example_04        CAGTATCCGGCGGTGTCGTAGTCCACTTCGAAGACGACGTCGTCGACCCGCGAGATCCCC	726
+CATwalk_example_03        CAGTATCCGGCGGTGTCGTAGTCCACTTCGAAGACGACGTCGTCGACCCGCGAGATCCCC	1260
+CATwalk_example_02        CAGTATCCGGCGGTGTCGTAGTCCACTTCGAAGACGACGTCGTCGACCCGCGAGATCCCC	884
+CATwalk_example_seed      CAGTATCCGGCGGTGTCGTAGTCCACTTCGAAGACGACGTCGTCGACCCGCGAGATCCCC	182
+CATwalk_example_01        CAGTATCCGGCGGTGTCGTAGTCCACTTCGAAGACGACGTCGTCGACCCGCGAGATCCCC	841
+                          ************************************************************
+
+CATwalk_example_04        GTTTCCAGGCGCCCGTCGTCGTGCAGGCGCAACCAGCGGTAGCCCGGCGCCAGGCGGTCG	786
+CATwalk_example_03        GTTTCCAGGCGCCCGTCGTCGTGCAGGCGCAACCAGCGGTAGCCCGGCGCCAGGCGGTCG	1320
+CATwalk_example_02        GTTTCCAGGCGCCCGTCGTCGTGCAGGCGCAACCAGCGGTAGCCCGGCGCCAGGCGGTCG	944
+CATwalk_example_seed      GTTTCCAGGCGCCCGTCGTCGTGCAGGCGCAACCAGCGGTAGCCCGGCGCCAGGCGGTCG	242
+CATwalk_example_01        GTTTCCAGGCGCCCGTCGTCGTGCAGGCGCAACCAGCGGTAGCCCGGCGCCAGGCGGTCG	901
+                          ************************************************************
+
+CATwalk_example_04        AGGGTGAAGTCGCTGCTGCCGGGGGCGAACTGCACGCAGGTGGACGGCGAAGCCAGCAGG	846
+CATwalk_example_03        AGGGTGAAGTCGCTGCTGCCGGGGGCGAACTGCACGCAGGTGGACGGCGAAGCCAGCAGG	1380
+CATwalk_example_02        AGGGTGAAGTCGCTGCTGCCGGGGGCGAACTGCACGCAGGTGGACGGCGAAGCCAGCAGG	1004
+CATwalk_example_seed      AGGGTGAA----------------------------------------------------	250
+CATwalk_example_01        AGGGTGAAGTCGCTGCTGCCGGGGGCGAACTGCACGCAGGTGGACGGCGAAGCCAGCAGG	961
+                          ********                                                    
+
+CATwalk_example_04        CGCAGCGGGCCGCGCTGGCGGTCGAACTCCTGGTGAATGTGCCCCCACAGCAGGCAGCGC	906
+CATwalk_example_03        CGCAGCGGGCCGCGCTGGCGGTCGAACTCCTGGTGAATGTGCCCCCACAGCAGGCAGCGC	1440
+CATwalk_example_02        CGCAGCGGGCCGCGCTGGCGGTCGAACTCCTGGTGAATGTGCCCCCACAGCAGGCAGCGC	1064
+CATwalk_example_seed      ------------------------------------------------------------	250
+CATwalk_example_01        CGCAGCGGGCCGCGCTGGCGGTCGAACTCCTGGTGAATGTGCCCCCACAGCAGGCAGCGC	1021
+                                                                                      
+
+CATwalk_example_04        ACCTGCGGATAGGGTGCCAGCAGGTCGAACAGCGCCTGCGGGTTGCGCAGGCCGATGGGG	966
+CATwalk_example_03        ACCTGCGGATAGGGTGCCAGCAGGTCGAACAGCGCCTGCGGGTTGCGCAGGCCGATGGGG	1500
+CATwalk_example_02        ACCTGCGGATAGGGTGCCAGCAGGTCGAACAGCGCCTGCGGGTTGCGCAGGCCGATGGGG	1124
+CATwalk_example_seed      ------------------------------------------------------------	250
+CATwalk_example_01        ACCTGCGGATAGGGTGCCAGCAGGTCGAACAGCGCCTGCGGGTTGCGCAGGCCGATGGGG	1081
+                                                                                      
+
+CATwalk_example_04        TCCATCCAGTCGCTGCCGATCGGCACCGGGTGGTGATGGAAGGAAACCAGCAGGAAGCGT	1026
+CATwalk_example_03        TCCATCCAGTCGCTGCCGATCGGCACCGGGTGGTGATGGAAGGAAACCAGCAGGAAGCGT	1560
+CATwalk_example_02        TCCATCCAGTCGCTGCCGATCGGCACCGGGTGGTGATGGAAGGAAACCAGCAGGAAGCGT	1184
+CATwalk_example_seed      ------------------------------------------------------------	250
+CATwalk_example_01        TCCATCCAGTCGCTGCCGATCGGCACCGGGTGGTGATGGAAGGAAACCAGCAGGAAGCGT	1141
+                                                                                      
+
+CATwalk_example_04        TCGCCGGCGCTGTCGATGGCGCGCCGCAGCAGCTCCAGCTGATCCTCCTCGAGATAGCCC	1086
+CATwalk_example_03        TCGCCGGCGCTGTCGATGGCGCGCCGCAGCAGCTCCAGCTGATCCTCCTCGAGATAGCCC	1620
+CATwalk_example_02        TCGCCGGCGCTGTCGATGGCGCGCCGCAGCAGCTCCAGCTGATCCTCCTCGAGATAGCCC	1244
+CATwalk_example_seed      ------------------------------------------------------------	250
+CATwalk_example_01        TCGCCGGCGCTGTCGATGGCGCGCCGCAGCAGCTCCAGCTGATCCTCCTCGAGATAGCCC	1201
+                                                                                      
+
+CATwalk_example_04        GGCACCGCGCCGGGAATGCTCGAGTCGAGCAACACCACGCGCCAGTTGCCGACGTCGACG	1146
+CATwalk_example_03        GGCACCGCGCCGGGAATGCTCGAGTCGAGCAACACCACGCGCCAGTTGCCGACGTCGACG	1680
+CATwalk_example_02        GGCACCGCGCCGGGAATGCTCGAGTCGAGCAACACCACGCGCCAGTTGCCGACGTCGACG	1304
+CATwalk_example_seed      ------------------------------------------------------------	250
+CATwalk_example_01        GGCACCGCGCCGGGAATGCTCGAGTCGAGCAACACCACGCGCCAGTTGCCGACGTCGACG	1261
+                                                                                      
+
+CATwalk_example_04        ACCTGCTCCAGCAGGTCGCTGCCCTCGGTCGCCCTTTGCATCGGCTCGCGTTCGTCGTGG	1206
+CATwalk_example_03        ACCTGCTCCAGCAGGTCGCTGCCCTCGGTCGCCCTTTGCATCGGCTCGCGTTCGTCGTGG	1740
+CATwalk_example_02        ACCTGCTCCAGCAGGTCGCTGCCCTCGGTCGCCCTTTGCATCGGCTCGCGTTCGTCGTGG	1364
+CATwalk_example_seed      ------------------------------------------------------------	250
+CATwalk_example_01        ACCTGCTCCAGCAGGTCGCTGCCCTCGGTCGCCCTTTGCATCGGCTCGCGTTCGTCGTGG	1321
+                                                                                      
+
+CATwalk_example_04        TTACCGGCGAACCAGCGCAACGGCGCGTCCAGGGGGGCGCTCAACCTGCGGAAGCGTGTG	1266
+CATwalk_example_03        TTACCGGCGAACCAGCGCAACGGCGCGTCCAGGGGGGCGCTCAACCTGCGGAAGCGTGTG	1800
+CATwalk_example_02        TTACCGGCGAACCAGCGCAACGGCGCGTCCAGGGGGGCGCTCAACCTGCGGAAGCGTGTG	1424
+CATwalk_example_seed      ------------------------------------------------------------	250
+CATwalk_example_01        TTACCGGCGAACCAGCGCAACGGCGCGTCCAGGGGGGCGCTCAACCTGCGGAAGCGTGTG	1381
+                                                                                      
+
+CATwalk_example_04        TAGGAATCGAGGCTGCCGTCCTGGGAGACGTCGCCGGTGGCGAGAATCAGGTCGATCCGC	1326
+CATwalk_example_03        TAGGAATCGAGGCTGCCGTCCTGGGAGACGTCGCCGGTGGCGAGAATCAGGTCGATCCGC	1860
+CATwalk_example_02        TAGGAATCGAGGCTGCCGTCCTGGGAGACGTCGCCGGTGGCGAGAATCAGGTCGATCCGC	1484
+CATwalk_example_seed      ------------------------------------------------------------	250
+CATwalk_example_01        TAGGAATCGAGGCTGCCGTCCTGGGAGACGTCGCCGGTGGCGAGAATCAGGTCGATCCGC	1441
+                                                                                      
+
+CATwalk_example_04        GGCTGCTCCCGGGCGACCCGCTCGACCACCTTCTCCAGGCTATGGGCGGTATCCATGCCA	1386
+CATwalk_example_03        GGCTGCTCCCGGGCGACCCGCTCGACCACCTTCTCCAGGCTATGGGCGGTATCCATGCCA	1920
+CATwalk_example_02        GGCTGCTCCCGGGCGACCCGCTCGACCACCTTCTCCAGGCTATGGGCGGTATCCATGCCA	1544
+CATwalk_example_seed      ------------------------------------------------------------	250
+CATwalk_example_01        GGCTGCTCCCGGGCGACCCGCTCGACCACCTTCTCCAGGCTATGGGCGGTATCCATGCCA	1501
+                                                                                      
+
+CATwalk_example_04        AGCAGGCGCGCGCCATCCTCGGCGAACAGGTGGCTGTCCGAGAGCTGCACCAGCAGTACG	1446
+CATwalk_example_03        AGCAGGCGCGCGCCATCCTCGGCGAACAGGTGGCTGTCCGAGAGCTGCACCAGCAGTACG	1980
+CATwalk_example_02        AGCAGGCGCGCGCCATCCTCGGCGAACAGGTGGCTGTCCGAGAGCTGCACCAGCAGTACG	1604
+CATwalk_example_seed      ------------------------------------------------------------	250
+CATwalk_example_01        AGCAGGCGCGCGCCATCCTCGGCGAACAGGTGGCTGTCCGAGAGCTGCACCAGCAGTACG	1561
+                                                                                      
+
+CATwalk_example_04        GAGGCGTCGGTGGCGGGAGTGTTTG-----------------------------------	1471
+CATwalk_example_03        GAGGCGTCGGTGGCGGGAGTGTTTG-----------------------------------	2005
+CATwalk_example_02        GAGGCGTCGGTGGCGGGAGTGTTCGAATGGCGTGACAAGGGGCCGTCTCCTGAAGGCGAG	1664
+CATwalk_example_seed      ------------------------------------------------------------	250
+CATwalk_example_01        GAGGCGTCGGTGGCGGGAGTGTTCGAATGGCGTGACAAGGGGCCGTCTCCTGAAGGCGAG	1621
+                                                                                      
+
+CATwalk_example_04        ------------------------------------------------------------	1471
+CATwalk_example_03        ------------------------------------------------------------	2005
+CATwalk_example_02        GCGTCCGCGGTGAAAGGGATGATTATGGTGACCGACGAAAGTGGCGGCAAACCCGGAAAG	1724
+CATwalk_example_seed      ------------------------------------------------------------	250
+CATwalk_example_01        GCGTCCGCGGTGAAAGGGATGATTATGGTGACCGACGAAAGTGGCGGCAAACCCGGAAAG	1681
+                                                                                      
+
+CATwalk_example_04        ------------------------------------------------------------	1471
+CATwalk_example_03        ------------------------------------------------------------	2005
+CATwalk_example_02        CGGAACAGATCACAGTTGCGAGGACTACTTTTGGCTTGATGTCATTCAACTGGCCTTTTG	1784
+CATwalk_example_seed      ------------------------------------------------------------	250
+CATwalk_example_01        CGGAACAGATCACAGTTGCGAGGACTACTTTTGGCTTGATGTCATTCAACTGGCCTTTTG	1741
+                                                                                      
+
+CATwalk_example_04        ------------------------------------------------------------	1471
+CATwalk_example_03        ------------------------------------------------------------	2005
+CATwalk_example_02        CCTGCAACCGCTCAGCGCTGGGTCACCGGCTCCATTTCGTGGCCGCAGGCCAGGCAATGG	1844
+CATwalk_example_seed      ------------------------------------------------------------	250
+CATwalk_example_01        CCTGCAACCGCTCAGCGCTGGGTCACCGGCTCCATTTCGTGGCCGCAGGCCAGGCAATGG	1801
+                                                                                      
+
+CATwalk_example_04        ------------------------------------------------------------	1471
+CATwalk_example_03        ------------------------------------------------------------	2005
+CATwalk_example_02        GCGAGCCACTCGCCGAGGAACAGGTTGAGCTGGTTCTTCTCGTCGGGCTGGTGCATCGCC	1904
+CATwalk_example_seed      ------------------------------------------------------------	250
+CATwalk_example_01        GCGAGCCACTCGCCGAGGAACAGGTTGAGCTGGTTCTTCTCGTCGGGCTGGTGCATCGCC	1861
+                                                                                      
+
+CATwalk_example_04        ------------------------------------------------------------	1471
+CATwalk_example_03        ------------------------------------------------------------	2005
+CATwalk_example_02        TGGTTCGGGTAGGGATAGATCGCCATCAGCCGCCGCGCCTGTTCGGCGCCGATCACCTCG	1964
+CATwalk_example_seed      ------------------------------------------------------------	250
+CATwalk_example_01        TGGTTCGGGTAGGGATAGATCGCCATCAGCCGCCGCGCCTGTTCGGCGCCGATCACCTCG	1921
+                                                                                      
+
+CATwalk_example_04        ------------------------------------------------------------	1471
+CATwalk_example_03        ------------------------------------------------------------	2005
+CATwalk_example_02        GCCATCCGCGCATCGTGGTAGACCCGCACTTCCAGCCGCGGCGCCGGCAACCAGGGCAGG	2024
+CATwalk_example_seed      ------------------------------------------------------------	250
+CATwalk_example_01        GCCATCCGCGCATCGTGGTAGACCCGCACTTCCAGCCGCGGCGCCGGCAACCAGGGCAGG	1981
+                                                                                      
+
+CATwalk_example_04        ------------------------------------------------------------	1471
+CATwalk_example_03        ------------------------------------------------------------	2005
+CATwalk_example_02        CCCAGTTCCTGGCGCACCTGAAGGGTGATGGTGTAGGGGCAGGCCTCGGTCACTTCCAGC	2084
+CATwalk_example_seed      ------------------------------------------------------------	250
+CATwalk_example_01        CCCAGTTCCTGGCGCACCTGAAGGGTGGTGGTGTAGGG----------------------	2019
+                                                                                      
+
+CATwalk_example_04        ----------	1471
+CATwalk_example_03        ----------	2005
+CATwalk_example_02        GCAAGTACGC	2094
+CATwalk_example_seed      ----------	250
+CATwalk_example_01        ----------	2019
+                                    
